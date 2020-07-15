@@ -1,0 +1,24 @@
+.main-container {
+    display: flex;
+    background-color: rgb(119, 255, 255);
+    align-items: center;
+}
+
+.for-list {
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    align-items: center;
+    margin-left: auto;
+}
+
+.for-list li {
+    margin: 20px;
+    font-size: large;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.logo{
+    margin-left: 15px;
+}
